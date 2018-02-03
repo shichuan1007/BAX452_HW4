@@ -142,4 +142,3 @@ data.frame(LCL_2_2, UCL_2_2)
 # 7
 
 # 8
-# (rho)^2 = 1 - Var(Epsilon) / Var(Y) = 1 - Var(Epsilon) / (Var(mean(x)) + Var(Epsilon)) = 1 - p/(p+p) = 0.5
